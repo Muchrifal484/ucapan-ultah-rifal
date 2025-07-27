@@ -1,0 +1,21 @@
+{
+  "name": "Ucapan Ulang Tahun Rifal",
+  "short_name": "Ucapan Rifal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#aee1f9",
+  "theme_color": "#aee1f9",
+  "description": "Kartu ucapan ulang tahun untuk Muchammad Rifal Nugroho",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/mFGmM1n/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/yRxqJDd/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
